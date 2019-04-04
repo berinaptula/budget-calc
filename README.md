@@ -10,7 +10,16 @@
 5. Display calculations in the DOM
 6. Functionality to remove the items from DOM
 7. Update the budget after removing an item from the list
+8. Calculate how much percentage is the expense from the total budget
+9. Nicely formatted numbers.
+10. Display current month and year
 
+# 04.April.2019
+- Format numbers (e.g 23324 becomes 23,324.00)
+- + or - depending if the item is income or expense
+- Calculate how much percentage is the expense from the total budget and display in the DOM
+- Improve UX, add red outline to input fields if the user chooses to add an expense, or blue when adds an income
+- Add date (month and year) display on the header
 # 03.April.2019 
 - Dynamically remove elements from UI
 - Update the budget in the DOM
